@@ -1,0 +1,8 @@
+{
+    "_id": "123456",
+    "name": "admin",
+    "email": "admin@example.com",
+    "password": "password",
+    "isAdmin": true
+  }
+  
